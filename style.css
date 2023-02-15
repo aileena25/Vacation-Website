@@ -1,0 +1,26 @@
+img{
+  width: 100%;
+  object-fit: contain;
+}
+.row{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+.row2{
+  display: flex;
+ justify-content: center;
+  justify-content: space-between;
+}
+.buttons1{
+  color: green;
+    display: flex;
+}
+buttons2{
+  color: yellow;
+    display: flex;
+}
+buttons3{
+  color: red;
+    display: flex;
+}
